@@ -1,1 +1,1 @@
-# Hadoop-Mapred-Program
+# Hadoop-Mapreduce-Program
